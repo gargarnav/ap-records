@@ -1,5 +1,7 @@
 # AP-8: eight primes in arithmetic progression, 1060 digits
 
+> **Older record (27 Nov 2026):** this AP-8 was on the Prime Pages AP-8 list until 6 November 2026, when four 1,101-digit AP-8s by the same discoverer passed it ([`ap8-1101-1/`](../../ap8-1101-1/) to [`ap8-1101-4/`](../../ap8-1101-4/)).
+
 ```
 (1950740727977 + 445136050·n)·2459# + 1,   n = 0, 1, ..., 7
 ```

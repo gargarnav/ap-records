@@ -1,0 +1,19 @@
+{
+ "k": 16,
+ "digits": 61,
+ "a": 289822162743,
+ "d": 153276754,
+ "P": 127,
+ "found": "2026-11-27",
+ "found_text": "27 November 2026",
+ "dir": "ap16-61",
+ "beats": "a 60-digit AP-16 (Norman Luhn, 9 January 2026)",
+ "list_updated": "14 November 2026",
+ "read": "27 November 2026",
+ "standing": null,
+ "thanks": "Special thanks to **[Dr. Anirudh Singh Rana](https://www.bits-pilani.ac.in/pilani/anirudh-singh-rana/)** (Department of Mathematics, Birla Institute of Technology and Science, Pilani Campus, Pilani, Rajasthan, India, 333031), who made this possible by arranging computing time on **Sharanga**, the high-performance computing facility of the Birla Institute of Technology and Science, Pilani, Hyderabad Campus ([sharanga.hpc.bits-hyderabad.ac.in](https://sharanga.hpc.bits-hyderabad.ac.in/)). The search ran on one NVIDIA A100 GPU there, and the sixteen proofs on the same node.\n\nI gratefully acknowledge the computing time provided on the high performance computing facility, Sharanga, at the Birla Institute of Technology and Science - Pilani, Hyderabad Campus.",
+ "first_term": "1163484388839399752272037658980770506688647427428906931323391",
+ "last_term": "1172714278753432092952471551177229209088685943502335035349691",
+ "section": "record",
+ "status": "beats the 60-digit AP-16 on Luhn's list (read 27 Nov 2026); not yet listed there"
+}
