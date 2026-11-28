@@ -1,0 +1,26 @@
+# classical N-1 primality certificate
+N=12464688203150330108503473497461838882941
+side=N-1
+factors=2^2,3^1,5^1,7^1,11^1,13^1,17^1,19^1,23^1,29^1,31^1,37^1,41^1,43^1,47^1,53^1,59^1,61^1,67^1,71^1,73^1,153017259401^1
+witness=2,2
+witness=3,3
+witness=5,2
+witness=7,2
+witness=11,2
+witness=13,2
+witness=17,3
+witness=19,2
+witness=23,2
+witness=29,2
+witness=31,2
+witness=37,2
+witness=41,2
+witness=43,2
+witness=47,2
+witness=53,2
+witness=59,2
+witness=61,2
+witness=67,2
+witness=71,2
+witness=73,2
+witness=153017259401,2

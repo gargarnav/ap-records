@@ -14,7 +14,8 @@ The largest known AP-k for its k on Norman Luhn's list, or found to beat it.
 | 12 | 202 | (145330438399 + 819928252·n)·461# + 1 | 7 November 2026 | largest known AP-12 on Luhn's list (read 27 Nov 2026) | [`ap12-202/`](ap12-202/) |
 | 14 | 104 | (541343583659 + 2878343921·n)·229# + 1 | 14 November 2026 | largest known AP-14 on Luhn's list (read 27 Nov 2026) | [`ap14-104/`](ap14-104/) |
 | 15 | 76 | (198301127768 + 848309427·n)·163# + 1 | 13 November 2026 | largest known AP-15 on Luhn's list (read 27 Nov 2026) | [`ap15-76/`](ap15-76/) |
-| 16 | 61 | (289822162743 + 153276754·n)·127# + 1 | 27 November 2026 | beats the 60-digit AP-16 on Luhn's list (read 27 Nov 2026); not yet listed there | [`ap16-61/`](ap16-61/) |
+| 16 | 61 | (289822162743 + 153276754·n)·127# + 1 | 27 November 2026 | largest known AP-16 on Luhn's list (read 28 Nov 2026) | [`ap16-61/`](ap16-61/) |
+| 18 | 41 | (301916538450 + 1029495088·n)·73# + 1 | 28 November 2026 | beats the 40-digit AP-18 on Luhn's list (read 28 Nov 2026); not yet listed there | [`ap18-41/`](ap18-41/) |
 
 ## On the Prime Pages
 
